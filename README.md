@@ -5,7 +5,10 @@
 
 - client 와 server의 연결 유지 
 - 채팅, streaming ...
-
+- 두 프로그램간 통신 링크의 엔드포인트
+- 포트 넘버를 통해 TCP 레이어가 목적지인 애플리케이션을 식별하게함.
+- 엔드포인트: ip + port
+- 
 
 ![image](https://user-images.githubusercontent.com/43734014/122633471-d864ca80-d113-11eb-8721-0c2230b8cf3a.png)
 [그림출처](https://aronglife.tistory.com/entry/NetworkTCPIP-%EC%86%8C%EC%BC%93%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D4%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-%EA%B5%AC%ED%98%84?category=910808)
